@@ -1,0 +1,17 @@
+.careers-banner-bgImg{
+    background-image: url('../../../../assets/images/careers.jpg');
+    width: 100%;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat:no-repeat ;
+    background-color: #f6f7f9;
+    color: #fff;
+    height: 400px;
+    padding-top: 100px;
+}
+
+.search-btn{
+    background-color: transparent !important;
+    color: black !important;
+}

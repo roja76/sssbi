@@ -1,0 +1,20 @@
+.txtcolor{
+    color:#969696;
+   
+}
+.txtcolor:hover{
+    color: #fff;
+}
+.btn:hover{
+    color:#fff
+}
+
+.web .nav-pills .nav-link.active{
+    color: #fff;
+    background-color: #ff210c;
+}
+
+.service .nav-pills .nav-link.active{
+    color: #fff;
+    background-color:  #1c3b9c;
+}

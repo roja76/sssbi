@@ -1,0 +1,13 @@
+.bbb{
+    border: none;
+}
+.bbb:active{
+    background: #ff1808;
+}
+.bbb:hover{
+    background-color: #ff1808;
+    
+    color: white;
+    cursor: pointer;
+    cursor: hand;
+}

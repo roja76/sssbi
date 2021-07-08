@@ -1,0 +1,53 @@
+.service-icon{
+    width: 60px;
+    height: 60px;
+    background: #fff;
+    border: 6px solid #eff2f7;
+    padding: 5px;
+    color:#666666;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    -moz-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-out;
+    -webkit-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out
+}
+/* .service-icon span {
+    color: #fff;
+} */
+.service-icon:hover {
+    background-color: #ff1808;
+    border-color: #eff2f7;
+   color: #fff;
+}
+blockquote, .blockquote {
+    border: 1px solid #eeeeee;
+    padding: 50px;
+    position: relative;
+    background: #fff;
+    -webkit-box-shadow: 1px 2px 12px 0px rgb(0 0 0 / 8%);
+    -moz-box-shadow: 1px 2px 12px 0px rgba(0, 0, 0, 0.08);
+    box-shadow: 1px 2px 12px 0px rgb(0 0 0 / 8%);
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    color: #666666;
+    font-size: 16px;
+    line-height: 30px;
+    margin: 0 15px 30px;
+}
+/* .wrap-service-icon {
+    width: 70px;
+    height: 65px;
+    margin-right: 5px;
+    background: #eff2f7;
+    border: 1px solid #eff2f7;
+    padding: 5px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    -moz-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-out;
+    -webkit-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+} */

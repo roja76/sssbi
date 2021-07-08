@@ -1,0 +1,13 @@
+.about-banner-bgImg{
+    background-image: url('https://doyle.beplusthemes.com/wp-content/uploads/2017/07/bg_section13-1.jpg?id=2233');
+    width: 100%;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat:no-repeat ;
+    background-color: #f6f7f9;
+    color: #fff;
+    height: 400px;
+    padding-top: 120px;
+
+}

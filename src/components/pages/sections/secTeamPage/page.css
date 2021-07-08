@@ -1,0 +1,23 @@
+.teampage-header{
+    background-color: #171721;
+    color: #fff;
+    padding: 50px 50px 50px 50px;
+}
+
+.teampage-header a{
+    color: #fff
+}
+
+.teampage-card{
+    margin-bottom: 30px;
+    /* border: 10px solid #fff; */
+    box-shadow: 8px 0 17px rgb(104 104 118 / 20%);
+}
+
+.teampage-text-color{
+    color: #686876;
+}
+
+.teampage-infor{
+    line-height: 2;
+}

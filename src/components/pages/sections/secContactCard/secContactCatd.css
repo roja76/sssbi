@@ -1,0 +1,32 @@
+.blob {
+	width: 50px;
+    height: 50px;
+	border-radius: 50%;
+    box-shadow: 0px 0px 0px 0px;
+	transform: scale(1);
+    background-color: #1c3b9c;
+}
+.blob:hover{
+    animation: pulse 1s infinite;
+  animation-timing-function:linear; 
+}
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.1);}
+  100% { transform: scale(1); }
+  }
+  .bgImg{
+    background-image: url('https://static-cse.canva.com/blob/137052/40-examples-to-help-you-build-the-perfect-contact-us-page.75132b7b.jpg');
+    width: 100%;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat:no-repeat ;
+    background-color: #f6f7f9;
+    color: #fff;
+    /* height: 400px; */
+    padding-top: 80px;
+    padding-bottom: 80px;
+
+
+}

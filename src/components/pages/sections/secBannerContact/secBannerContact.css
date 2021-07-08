@@ -1,0 +1,14 @@
+.contact-banner-bgImg{
+    background-image: url('https://www.demenntor.com/wp-content/uploads/2019/04/Contact-us-banner-001.jpg');
+    width: 100%;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat:no-repeat ;
+    background-color: #f6f7f9;
+    color: #fff;
+    height: 350px;
+    padding-top: 100px;
+    
+}
+/* https://static-cse.canva.com/blob/137052/40-examples-to-help-you-build-the-perfect-contact-us-page.75132b7b.jpg */

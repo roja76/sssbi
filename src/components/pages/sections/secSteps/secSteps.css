@@ -1,0 +1,45 @@
+.steps-bgImg{
+    background-image: url('https://doyle.beplusthemes.com/wp-content/uploads/2017/06/bg_section18.jpg');
+    width: 100%;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat:no-repeat ;
+    background-color: #f6f7f9;
+    color: #fff;
+    /* height: 400px; */
+    padding-top: 80px;
+    padding-bottom: 80px;
+
+
+}
+
+.steps-card{
+    position: relative;
+    /* border: 10px solid rgba(17,17,17,.05); */
+    background-color: #fff;
+    color: black;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.steps-num{
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px transparent;
+    position: absolute;
+    top: 0;
+    right: -12px;
+    width: 32px;
+    height: 32px;
+    font-size: 14px;
+    line-height: 32px;
+    text-align: center;
+    color: #fff;
+    background: #1c3b9c;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+}

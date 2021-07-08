@@ -1,0 +1,12 @@
+.imgcolor {
+    width: 100%;
+    height: 135px;
+    filter: grayscale(100%) opacity(70%);
+   
+    
+  }
+  .imgcolor:hover{
+    transform: scale(1.2);
+    translate:(100px,100px);
+    
+  }
